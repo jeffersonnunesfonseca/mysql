@@ -13,3 +13,4 @@ services:
       # - ./conf/mysqld.cnf:/etc/mysql/mysql.conf.d/mysqld.cnf
     ports:
       - 3306:3306
+    mem_limit: 1G
