@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="mysqlDocker" title="" src="./images/mysqlDocker.png
-  " />
+  <img alt="mysqlDocker" title="" src="./images/mysqlDocker.png"/>
 </h1>
 <h2>
     <b>Objetivo</b>
